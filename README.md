@@ -1,3 +1,10 @@
+# Análise de Campanhas de Marketing - Nexora
+
+Bem-vindo ao repositório do projeto **Análise de Campanhas de Marketing**! Este projeto foi criado para simular uma experiência real de trabalho, onde fui desafiado a analisar e interpretar dados fictícios para uma empresa chamada **Nexora** (nome fictício criado por mim 😄).
+
+## Sobre o Projeto
+
+O objetivo deste projeto é demonstrar habilidades em:
 - Análise de dados utilizando o Power BI
 - Visualização de dados para tomada de decisões
 - Interpretação de métricas como ROI, CPA e taxa de conversão
@@ -34,3 +41,10 @@ No projeto, foram criados dashboards interativos que ajudam a:
 
 ## Feedback
 Ficarei feliz em ouvir suas opiniões sobre o projeto! Caso tenha alguma sugestão ou feedback, fique à vontade para abrir uma issue ou me contatar.
+
+## Links
+- [Meu LinkedIn](https://www.linkedin.com/in/lucas-brady)  
+- [Acesse o Dashboard Completo no Power BI](#) *(atualize com o link caso compartilhe o dashboard online)*
+
+---
+Espero que este projeto seja úteis para você se inspirar ou aprender mais sobre análise de dados em marketing!
