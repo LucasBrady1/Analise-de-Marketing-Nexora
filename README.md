@@ -44,7 +44,4 @@ Ficarei feliz em ouvir suas opiniões sobre o projeto! Caso tenha alguma sugest�
 
 ## Links
 - [Meu LinkedIn]([https://www.linkedin.com/in/lucas-brady](https://www.linkedin.com/in/lucas-soares-brady-459761165/))  
-- [Acesse o Dashboard Completo no Power BI](#) *([atualize com o link caso compartilhe o dashboard online](https://app.powerbi.com/groups/me/reports/ab07446f-9787-4ace-bea4-37317c83c428?ctid=440bfcc2-12e8-46a8-afa7-6275939afd40&pbi_source=linkShare))*
-
----
-Espero que este projeto seja úteis para você se inspirar ou aprender mais sobre análise de dados em marketing!
+- [Acesse o Dashboard Completo no Power BI](#) *
