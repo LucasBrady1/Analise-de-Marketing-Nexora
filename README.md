@@ -43,5 +43,5 @@ No projeto, foram criados dashboards interativos que ajudam a:
 Ficarei feliz em ouvir suas opiniões sobre o projeto! Caso tenha alguma sugestão ou feedback, fique à vontade para abrir uma issue ou me contatar.
 
 ## Links
-- [Meu LinkedIn]([https://www.linkedin.com/in/lucas-brady](https://www.linkedin.com/in/lucas-soares-brady-459761165/))  
+- [[Meu LinkedIn](https://www.linkedin.com/in/lucas-soares-brady-459761165/)]
 - [Acesse o Dashboard Completo no Power BI](#) *
